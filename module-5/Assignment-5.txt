@@ -1,0 +1,45 @@
+User Testing and Feedback
+
+Objective: Conduct user testing and gather feedback on the developed Plutus DApp.
+
+Assignment Description:
+
+In this assignment, students will conduct user testing and gather feedback on the interactive Plutus decentralized application (DApp) developed in Assignment 4. The objective is to provide students with practical experience in collecting user feedback, assessing the DApp's usability, functionality, and overall user experience, and making necessary improvements based on feedback.
+
+Instructions:
+
+Prepare for User Testing:
+
+Instruct students to prepare for user testing by ensuring that their interactive Plutus DApp is in a testable state. They should have access to the DApp and any necessary testing environments.
+Select a User Testing Group:
+
+Have students select a group of users or classmates who will participate in the user testing process. Encourage them to choose individuals with varying levels of familiarity with blockchain technology and DApps.
+Conduct User Testing:
+
+Instruct students to conduct user testing sessions. During these sessions, users should interact with the Plutus DApp and perform tasks that are relevant to the DApp's functionality.
+Collect Feedback:
+
+Students should gather feedback from users regarding their experience with the DApp. The feedback should focus on aspects such as usability, functionality, design, and any issues or challenges encountered.
+Analyze Feedback:
+
+Instruct students to analyze the feedback collected from users. Encourage them to identify common themes, pain points, and areas where improvements are needed.
+Make Necessary Improvements:
+
+Based on the feedback analysis, students should make necessary improvements to the Plutus DApp. These improvements may include addressing usability issues, optimizing functionality, or enhancing the user interface.
+Re-Test and Validate:
+
+After making improvements, students should re-test the DApp with a subset of users to validate that the changes have positively impacted the user experience.
+Documentation:
+
+Require students to document the entire user testing and feedback process. The documentation should include summaries of user feedback, explanations of the improvements made, and the results of the validation testing.
+Submission:
+
+Students should submit a document (e.g., a report or presentation) that includes the user testing process, feedback summaries, improvement details, and any relevant screenshots or diagrams.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful user testing and feedback collection process.
+Clarity and comprehensiveness of the documentation, including feedback summaries, improvement details, and validation results.
+Effective incorporation of user feedback to enhance the Plutus DApp's usability and user experience.
+Overall quality of the assignment and adherence to submission guidelines.

@@ -1,0 +1,39 @@
+Creating a User-Friendly DApp Front End
+
+Objective: Learn to develop user-friendly front-end interfaces for DApps on Cardano.
+
+Assignment Description:
+
+In this assignment, you will teach students how to develop user-friendly front-end interfaces for decentralized applications (DApps) on the Cardano blockchain platform. The objective is to provide students with practical experience in building interactive interfaces that allow users to interact with Plutus smart contracts. Students will investigate front-end development tools and libraries suitable for Cardano DApps and create a basic front-end interface for the Plutus smart contract developed in Assignment 2.
+
+Instructions:
+
+Introduction to DApp Front-End Development:
+
+Begin by introducing students to the importance of user-friendly front-end interfaces for DApps. Explain how a well-designed front end enhances the user experience and makes DApps more accessible.
+Front-End Development Tools:
+
+Provide an overview of front-end development tools and libraries that can be used to build interactive interfaces for Cardano DApps. Discuss their features, advantages, and suitability for DApp development.
+Investigate Front-End Tools:
+
+Instruct students to explore and investigate front-end development tools and libraries suitable for Cardano DApps. They should research and choose one or more tools based on their preferences and the requirements of the Plutus smart contract developed in Assignment 2.
+Develop a Basic Front-End Interface:
+
+Guide students through the process of developing a basic front-end interface for the Plutus smart contract created in Assignment 2. The interface should allow users to interact with the contract, such as triggering contract actions or viewing contract status.
+User Testing:
+
+Instruct students to conduct user testing of their front-end interface to ensure that it is user-friendly and functions as intended. They should gather feedback from potential users and make any necessary improvements.
+Documentation:
+
+Require students to document the front-end development process. This documentation should include explanations of the chosen front-end tools, code samples, explanations of interface features, and any improvements made based on user testing.
+Submission:
+
+Students should submit a document (e.g., a report or tutorial) that includes the development process, code samples, explanations, user testing results, and any relevant screenshots or diagrams.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of a user-friendly front-end interface for the Plutus smart contract.
+Clarity and comprehensiveness of the documentation, including explanations of the chosen front-end tools, code samples, and interface features.
+Effective user testing and incorporation of user feedback.
+Overall quality of the assignment and adherence to submission guidelines.

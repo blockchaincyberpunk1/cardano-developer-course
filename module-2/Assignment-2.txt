@@ -1,0 +1,44 @@
+Layered Blockchain Architecture Comparison
+
+Objective: Compare Cardano's layered architecture with other blockchain architectures.
+
+Assignment Description:
+
+In this assignment, you will explore and analyze the layered architecture of Cardano and compare it with another well-known blockchain platform (e.g., Ethereum, Polkadot). The objective is to gain insights into the differences in design philosophy, layers, and component interactions between these platforms. Your task is to write a detailed comparative analysis highlighting the advantages and disadvantages of Cardano's architecture relative to the chosen blockchain platform.
+
+Instructions:
+
+Select a Blockchain Platform for Comparison:
+
+Choose a well-known blockchain platform other than Cardano for comparison. Examples include Ethereum, Polkadot, or any other relevant blockchain.
+Research Cardano's Layered Architecture:
+
+Conduct in-depth research on Cardano's layered architecture. Explore official documentation, whitepapers, academic resources, and reputable sources to understand the components, layers, and design philosophy of Cardano's architecture.
+Research the Chosen Blockchain's Architecture:
+
+Conduct research on the architecture of the blockchain platform you selected for comparison. Gather information about its layers, components, and design principles.
+Prepare a Comparative Analysis:
+
+Write a detailed comparative analysis that highlights the following aspects:
+An overview of Cardano's layered architecture, including the settlement layer (SL) and the computation layer (CL).
+An overview of the chosen blockchain platform's architecture, emphasizing any layered structure or distinct components.
+Differences in design philosophy between Cardano and the chosen platform.
+A comparative analysis of the advantages and disadvantages of Cardano's architecture relative to the chosen platform. Consider aspects such as scalability, security, decentralization, and flexibility.
+Provide Examples:
+
+Include specific examples or use cases that illustrate how the architectural differences between Cardano and the chosen platform impact their functionalities or potential applications.
+Citations and References:
+
+Ensure that you provide proper citations for your sources. Refer to authoritative and reputable sources for your research.
+Submission:
+
+Submit your comparative analysis by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on Cardano's and the chosen blockchain platform's architectures.
+Clarity and comprehensiveness of the comparative analysis.
+Insightful analysis of the advantages and disadvantages of Cardano's architecture in relation to the chosen platform.
+Use of specific examples or use cases to support your analysis.
+Overall quality of the assignment and adherence to submission guidelines.

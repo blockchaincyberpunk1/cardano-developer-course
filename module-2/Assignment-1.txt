@@ -1,0 +1,38 @@
+Cardano Architecture Overview
+
+Objective: Gain a deep understanding of the architecture of the Cardano blockchain.
+
+Assignment Description:
+
+In this assignment, you will explore the intricacies of the Cardano blockchain's architecture. The Cardano blockchain is divided into distinct layers, including the settlement layer (SL) and the computation layer (CL), each with its own components and functionalities. Your task is to research and compile information about these layers and components, and then create an architectural diagram or presentation that visually represents the Cardano blockchain's structure. Additionally, you will explain the role and interactions of each component to provide a comprehensive overview of Cardano's architecture.
+
+Instructions:
+
+Research Cardano's Architecture:
+
+Begin by conducting extensive research on the architecture of the Cardano blockchain. Explore official documentation, whitepapers, academic resources, and reputable sources to gather information about the settlement layer (SL) and the computation layer (CL).
+Document key components, protocols, and technologies associated with each layer.
+Compile Information:
+
+Compile the information you have gathered into a structured format. Create a comprehensive list of components and their descriptions for both the settlement layer and the computation layer.
+Visual Representation:
+
+Create an architectural diagram or presentation that visually represents the Cardano blockchain's architecture. You can use software tools such as diagramming software, PowerPoint, or other visual aids.
+Ensure that your representation includes clear labels, symbols, and connections to depict the relationships and interactions between components.
+Explanation of Components:
+
+In your presentation or accompanying notes, explain the role and purpose of each component within the Cardano architecture. Address questions such as:
+What functions does each component serve?
+How do components in the SL and CL interact with each other?
+What is the significance of each component in achieving Cardano's goals?
+Submission:
+
+Submit your architectural diagram or presentation along with any accompanying notes or explanations by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on Cardano's architecture.
+Clarity and comprehensiveness of the architectural diagram or presentation.
+Thorough explanation of the role and interactions of each component.
+Overall quality of the assignment and adherence to submission guidelines.

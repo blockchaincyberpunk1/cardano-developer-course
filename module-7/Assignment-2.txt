@@ -1,0 +1,45 @@
+Contribution to Open-Source Projects in the Cardano Ecosystem
+
+Objective: Promote open-source contributions within the Cardano ecosystem.
+
+Assignment Description:
+
+In this assignment, students will actively contribute to open-source projects within the Cardano ecosystem. The objective is to encourage students to participate in collaborative development efforts, enhance their programming skills, and make meaningful contributions to Cardano-related open-source projects. Students will select a Cardano project or repository on platforms like GitHub and share their contribution experience, detailing the project they worked on, the changes they made, and the impact of their contribution on the Cardano community.
+
+Instructions:
+
+Select an Open-Source Cardano Project:
+
+Instruct students to search for an open-source Cardano project or repository on platforms like GitHub. Encourage them to choose a project that aligns with their interests and skillset.
+Contribute Meaningfully:
+
+Students should actively contribute to the chosen open-source project in a meaningful way. Their contributions can include:
+Submitting code improvements or enhancements.
+Fixing bugs or addressing issues in the project.
+Updating documentation to improve project clarity and usability.
+Creating tutorials or guides that benefit the project's users or developers.
+Document Your Contribution:
+
+Students should document their contribution experience, including:
+The name and description of the open-source project they contributed to.
+A detailed explanation of the changes they made, including code snippets or documentation updates.
+Any challenges they encountered during the contribution process and how they resolved them.
+How their contribution aligns with the project's goals and benefits the Cardano community.
+Impact Analysis:
+
+Ask students to reflect on the impact of their contribution. They should consider how their work improves the project, whether it helps the Cardano community, and any feedback or responses they received from project maintainers or other contributors.
+Share Your Experience:
+
+Encourage students to share their contribution experience with the class, either through a presentation, discussion, or written report. They should highlight the importance of open-source collaboration and the value it brings to the Cardano ecosystem.
+Submission:
+
+Students should submit a document (e.g., a report or presentation) that includes their contribution details, the impact of their work, and their reflections on the open-source contribution experience.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Meaningful and effective contribution to the chosen open-source Cardano project.
+Comprehensive documentation of the contribution, including explanations, code, or documentation updates.
+Thoughtful reflection on the impact of the contribution and its significance for the Cardano community.
+Quality of the presentation or report for sharing the contribution experience with the class.
+Overall quality of the assignment and adherence to submission guidelines.

@@ -1,0 +1,46 @@
+Developing Financial Contracts with Marlowe
+
+Objective: Dive into Marlowe contract development and testing.
+
+Assignment Description:
+
+In this assignment, you will immerse yourself in Marlowe contract development by creating a real-world financial contract scenario using Marlowe. The objective is to provide students with hands-on experience in developing financial contracts with Marlowe, including defining contract parameters, participants, actions, and conditions. By completing this assignment, students will gain practical knowledge of how Marlowe can be applied to real-world financial scenarios.
+
+Instructions:
+
+Select a Financial Contract Scenario:
+
+Choose a real-world financial contract scenario, such as a loan agreement, an insurance policy, a derivatives contract, or any other financial contract that interests you.
+Define Contract Parameters:
+
+Specify the contract parameters, including details such as contract duration, payment amounts, interest rates, collateral requirements, or any other relevant parameters specific to your chosen scenario.
+Participants and Roles:
+
+Define the participants in the contract and their roles. Clearly identify who the contract beneficiaries are, who is responsible for making payments, and any other relevant parties involved.
+Contract Actions:
+
+Describe the actions that can be taken within the contract. This may include actions like making payments, requesting payouts, or triggering events based on predefined conditions.
+Contract Conditions:
+
+Specify the conditions under which certain actions are triggered or contract terms are met. Explain how the contract enforces its rules and conditions.
+Development Process:
+
+Document the development process of the Marlowe contract. Include code snippets and explanations for defining contract parameters, participants, actions, and conditions.
+Testing and Verification:
+
+Test and verify the Marlowe contract within the Marlowe development environment to ensure it functions as expected.
+Challenges Faced:
+
+Reflect on the development process and document any challenges or considerations you encountered while developing the financial contract with Marlowe. Explain how you addressed these challenges.
+Submission:
+
+Submit a document (e.g., a report or tutorial) that includes the development process, contract details, code snippets, testing results, and any relevant screenshots or diagrams.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of a Marlowe financial contract for the chosen real-world scenario.
+Clarity and thoroughness in defining contract parameters, participants, actions, and conditions.
+Effective testing and verification of the contract's functionality.
+Thoughtful reflection on and documentation of any challenges faced during the development process.
+Overall quality of the assignment and adherence to submission guidelines.

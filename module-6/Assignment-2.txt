@@ -1,0 +1,45 @@
+Creating Native Tokens on Cardano
+
+Objective: Explore the process of creating native tokens on the Cardano blockchain.
+
+Assignment Description:
+
+In this assignment, you will guide students through the process of creating native tokens on the Cardano blockchain. The objective is to provide students with practical experience in token minting and issuance using Cardano's development tools. Students will create a simple native token on the Cardano blockchain and document the process, including details such as the token's name, supply, and use case.
+
+Instructions:
+
+Introduction to Native Tokens:
+
+Begin by providing an introduction to native tokens and their significance on the Cardano blockchain. Explain how native tokens differ from other types of tokens and their potential use cases.
+Technical Steps for Token Creation:
+
+Study and document the technical steps involved in creating native tokens on Cardano. This should include an overview of Cardano's development tools and how they can be used for token minting and issuance.
+Choose a Use Case:
+
+Instruct students to choose a use case for the native token they will create. This could be a representation of a digital asset, a utility token, or a token designed for a specific application.
+Development Environment Setup:
+
+Ensure that students have the necessary development environment set up to create native tokens on Cardano. This may include using tools such as the Cardano Command Line Interface (CLI).
+Token Creation Process:
+
+Guide students through the process of creating a native token. They should document each step, including:
+Minting the token.
+Specifying the token's name, symbol, and supply.
+Issuing the token to a Cardano address.
+Token Documentation:
+
+Require students to document the created native token, including its name, symbol, supply, and the use case it represents. They should also include any relevant transaction details.
+Testing and Verification:
+
+Instruct students to test and verify the functionality of the created native token. They should ensure that it behaves as expected and can be transferred on the Cardano blockchain.
+Submission:
+
+Students should submit a document (e.g., a report or tutorial) that includes the documentation of the token creation process, details about the native token, and any relevant screenshots or transaction records.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful creation of a native token on the Cardano blockchain.
+Clarity and comprehensiveness of the documentation, including explanations of the token's details and the token creation process.
+Effective testing and verification of the token's functionality.
+Overall quality of the assignment and adherence to submission guidelines.

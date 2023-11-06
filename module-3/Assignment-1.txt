@@ -1,0 +1,33 @@
+Exploring Plutus and Haskell
+
+Objective: Introduce students to Plutus and the Haskell programming language.
+
+Assignment Description:
+
+In this assignment, you will introduce students to Plutus, Cardano's smart contract development platform, and the Haskell programming language. The objective is to provide students with an understanding of Plutus's significance in blockchain development and the basics of Haskell, emphasizing its role in smart contract development on Cardano. You will research and provide an overview of Plutus and Haskell, and explain how they are relevant to the Cardano ecosystem.
+
+Instructions:
+
+Research and Overview of Plutus:
+
+Begin by researching and compiling information about Plutus. Explore official documentation, whitepapers, academic resources, and reputable sources to provide an overview of Plutus, Cardano's smart contract development platform. Include information on its purpose, key features, and significance in blockchain development.
+Introduction to Haskell:
+
+Explain the basics of the Haskell programming language, emphasizing its functional programming features. Discuss why Haskell is chosen for smart contract development on Cardano and how its functional paradigm aligns with blockchain development principles.
+Functional Programming Concepts:
+
+Describe fundamental functional programming concepts used in Haskell, such as immutability, first-class functions, and type inference. Explain how these concepts are applied in the context of smart contract development.
+Haskell for Smart Contracts:
+
+Discuss how Haskell is used for writing smart contracts on Cardano. Explain its role in specifying contract logic, handling state, and interacting with the Cardano blockchain.
+Submission:
+
+Submit a document (e.g., a report or presentation) that includes the research findings, explanations, and any relevant examples or code snippets related to Plutus and Haskell.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on Plutus and Haskell.
+Clarity and comprehensiveness of the explanations regarding Plutus's significance and Haskell's role in smart contract development.
+Effectiveness in communicating functional programming concepts.
+Overall quality of the assignment and adherence to submission guidelines.

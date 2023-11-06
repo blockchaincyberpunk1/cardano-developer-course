@@ -1,0 +1,46 @@
+ Exploring Cardano Development Tools
+
+Objective: Familiarize students with key development tools for Cardano.
+
+Assignment Description:
+
+In this assignment, you will introduce students to essential development tools provided by Cardano, such as Plutus Playground, Marlowe Playground, and the Cardano Command Line Interface (CLI). The goal is to help students become proficient in using one of these tools for blockchain development. You will choose one of these tools and provide a step-by-step tutorial or guide, complete with examples and practical exercises, to empower students to leverage the selected tool effectively.
+
+Instructions:
+
+Select a Cardano Development Tool:
+
+Choose one of the following Cardano development tools for your tutorial:
+Plutus Playground (for smart contract development).
+Marlowe Playground (for financial contract development).
+Cardano Command Line Interface (CLI) (for command-line interactions and development tasks).
+Research and Familiarize Yourself:
+
+Conduct thorough research to become well-acquainted with the selected Cardano development tool. Explore official documentation, tutorials, and available resources.
+Create a Step-by-Step Tutorial:
+
+Develop a comprehensive step-by-step tutorial or guide that covers the following aspects for the chosen tool:
+Introduction to the tool and its purpose.
+Installation and setup instructions (if applicable).
+Detailed instructions on how to use the tool for specific development tasks.
+Practical examples and use cases to illustrate its functionality.
+Troubleshooting tips for common issues.
+Best practices and recommendations for efficient use.
+Include Practical Exercises:
+
+Integrate practical exercises or hands-on tasks into your tutorial to reinforce the concepts and skills taught. These exercises should challenge students to apply what they have learned using the tool.
+Submission Format:
+
+Prepare your tutorial as a document (e.g., PDF, Word) that is easy to follow, complete with clear instructions, code snippets, and screenshots where necessary.
+Submission:
+
+Submit your tutorial or guide by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensiveness of the tutorial or guide.
+Effectiveness in explaining the selected Cardano development tool.
+Quality and relevance of practical exercises and examples.
+Demonstrated understanding of the tool's functionality.
+Overall quality of the assignment and adherence to submission guidelines.

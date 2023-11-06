@@ -1,0 +1,45 @@
+NFT Creation and Management on Cardano
+
+Objective: Develop practical skills in creating and managing NFTs on Cardano.
+
+Assignment Description:
+
+In this assignment, students will gain hands-on experience in creating and managing NFTs on the Cardano blockchain. The objective is to provide students with practical skills by having them choose a creative project (e.g., digital art, collectibles, unique content) and create an NFT that represents that project on Cardano. Students will document the entire process of NFT creation, including metadata preparation, token minting, and listing the NFT for sale or auction.
+
+Instructions:
+
+Select a Creative Project:
+
+Instruct students to choose a creative project or digital asset that they would like to tokenize as an NFT. This can be digital art, music, a collectible item, a unique article, or any creative work they prefer.
+Metadata Preparation:
+
+Guide students through the process of preparing metadata for their NFT. Explain the importance of metadata in describing the NFT asset, including title, description, artist information, and any additional details that make the NFT unique.
+Token Minting:
+
+Instruct students on how to mint their NFT on the Cardano blockchain. They should follow the Cardano native token standard for NFTs and mint their token using Cardano development tools or platforms.
+NFT Listing:
+
+Explain how students can list their NFT for sale or auction on Cardano-compatible NFT marketplaces or platforms. They should document the process of creating a listing, setting a price, and configuring auction parameters if applicable.
+Documentation:
+
+Require students to document the entire process of NFT creation and management, including:
+Detailed metadata for the NFT.
+Screenshots or code snippets of the minting process.
+Screenshots or documentation of the NFT listing on a Cardano NFT marketplace.
+Testing and Verification:
+
+Instruct students to test and verify the functionality of their NFT listing. They should ensure that potential buyers can view and interact with the NFT listing as expected.
+Reflection and Analysis:
+
+Encourage students to reflect on their experience of creating and managing NFTs. Ask them to analyze the challenges, opportunities, and considerations they encountered during the process.
+Submission:
+
+Students should submit a document (e.g., a report or tutorial) that includes the details of their chosen creative project, documentation of the NFT creation and listing process, and their reflections on the experience.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful creation and listing of an NFT representing the chosen creative project.
+Clarity and comprehensiveness of the documentation, including metadata, minting, and NFT listing.
+Thoughtful reflections on the NFT creation and management process.
+Overall quality of the assignment and adherence to submission guidelines.

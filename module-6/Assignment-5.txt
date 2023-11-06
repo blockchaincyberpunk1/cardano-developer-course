@@ -1,0 +1,44 @@
+Trading Native Tokens and NFTs on Cardano
+
+Objective: Study the process of trading native tokens and NFTs on Cardano.
+
+Assignment Description:
+
+In this assignment, students will delve into the process of trading native tokens and non-fungible tokens (NFTs) on the Cardano blockchain. The objective is to familiarize students with Cardano's native token and NFT marketplaces or platforms and enable them to simulate the process of buying or selling these digital assets. Students will document the steps involved in a trading scenario, gaining practical insights into Cardano's trading ecosystem.
+
+Instructions:
+
+Introduction to Trading on Cardano:
+
+Begin by introducing students to the concept of trading native tokens and NFTs on the Cardano blockchain. Explain the significance of token trading in the blockchain ecosystem.
+Explore Native Token and NFT Marketplaces:
+
+Instruct students to explore Cardano's native token and NFT marketplaces or platforms where users can trade these digital assets. Provide information on popular platforms or tools for trading on Cardano.
+Choose a Trading Scenario:
+
+Ask students to choose a trading scenario for this assignment. They can decide whether they want to simulate buying or selling native tokens, NFTs, or a combination of both. Encourage them to be specific about the assets they are trading and their motivations.
+Simulate the Trading Process:
+
+Guide students through the process of simulating their chosen trading scenario on Cardano. They should document each step involved, including:
+Browsing available listings.
+Selecting an asset to trade.
+Placing an order (buy or sell).
+Confirming the trade.
+Monitoring the transaction's progress.
+Document the Trading Scenario:
+
+Require students to document the entire trading scenario using screenshots, transaction records, or code snippets where applicable. They should include descriptions and explanations for each step.
+Analysis and Reflection:
+
+Encourage students to analyze their trading experience. They should reflect on the ease of use, transaction speed, costs, and any challenges encountered during the simulation. Ask them to consider the implications of trading on Cardano.
+Submission:
+
+Students should submit a document (e.g., a report or presentation) that includes the details of their chosen trading scenario, documentation of the trading process, and their reflections on the experience.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful simulation of the chosen trading scenario on Cardano.
+Clarity and comprehensiveness of the documentation, including step-by-step descriptions and explanations.
+Thoughtful analysis and reflections on the trading experience.
+Overall quality of the assignment and adherence to submission guidelines.

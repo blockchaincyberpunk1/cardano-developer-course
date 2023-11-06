@@ -1,0 +1,36 @@
+Exploring DApp Architecture on Cardano
+
+Objective: Understand the architecture of decentralized applications (DApps) on the Cardano platform.
+
+Assignment Description:
+
+In this assignment, you will explore the architecture of decentralized applications (DApps) on the Cardano blockchain platform. The objective is to provide students with a comprehensive understanding of how DApps are structured on Cardano, including the key components involved, such as smart contracts, off-chain components, and front-end interfaces. You will research and provide an overview of DApp architecture on Cardano and create a visual representation or diagram illustrating the interaction between these components within a Cardano DApp.
+
+Instructions:
+
+Research and Overview of Cardano DApp Architecture:
+
+Begin by conducting research on the architecture of decentralized applications (DApps) specifically designed for the Cardano blockchain. Explore official Cardano documentation, developer resources, and relevant materials to understand the key components and structure of Cardano DApps.
+Components of Cardano DApp Architecture:
+
+Provide an overview of the components involved in Cardano DApp architecture. This should include:
+Smart Contracts: Explain the role of smart contracts in Cardano DApps, including how they execute logic on-chain.
+Off-chain Components: Describe the off-chain components, which can include databases, APIs, and other external systems that interact with the blockchain.
+Front-end Interfaces: Discuss the front-end interfaces that enable users to interact with the DApp, including web interfaces or mobile applications.
+Visual Representation of DApp Architecture:
+
+Create a visual representation or diagram that illustrates the interaction between these components within a Cardano DApp. Use clear labels and annotations to explain the flow of data and transactions between smart contracts, off-chain components, and front-end interfaces.
+Explanation and Context:
+
+Provide an accompanying explanation and context for the visual representation. Explain the purpose and significance of each component and how they work together to enable DApp functionality.
+Submission:
+
+Submit your document, which should include the research findings, the visual representation, and the accompanying explanation, by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the research and overview of Cardano DApp architecture.
+Effectiveness of the visual representation in illustrating the interaction between DApp components.
+Clarity and comprehensiveness of the accompanying explanation and context.
+Overall quality of the assignment and adherence to submission guidelines.

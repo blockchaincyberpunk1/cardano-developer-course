@@ -1,0 +1,45 @@
+Building a Marlowe Contract
+
+Objective: Explore contract development using Marlowe Playground.
+
+Assignment Description:
+
+In this assignment, you will gain practical experience with Marlowe, Cardano's domain-specific language for financial contracts, by designing a financial contract or a simple decentralized application (dApp) using the Marlowe Playground. The objective is to provide hands-on experience in creating financial contracts and applications on the Cardano blockchain. You will present your contract design, explain its logic, and discuss how it leverages Marlowe's capabilities to achieve its intended functionality.
+
+Instructions:
+
+Access the Marlowe Playground:
+
+Access the Marlowe Playground, which is Cardano's web-based platform for designing and simulating financial contracts. You can find it at Marlowe Playground.
+Design a Financial Contract or dApp:
+
+Using the Marlowe Playground, design a financial contract or a simple decentralized application (dApp). You can start with a basic contract or dApp, such as a payment agreement or a lottery contract, or choose a more complex use case if you feel comfortable.
+Document the design and logic of your contract step by step. Explain how the contract works and its key components.
+Utilize Marlowe's Capabilities:
+
+Highlight how your contract leverages Marlowe's domain-specific language and capabilities to achieve its intended functionality. Discuss the advantages of using Marlowe for the specific use case.
+Testing and Simulation:
+
+Test your contract or dApp within the Marlowe Playground environment. Ensure that it functions as expected and produces the desired outcomes.
+Document the testing and simulation process. Include any observations or insights gained during this phase.
+Presentation and Explanation:
+
+Prepare a presentation or document that includes the following:
+Introduction to Marlowe and the Marlowe Playground.
+Detailed explanation of your financial contract or dApp design.
+Discussion of how your contract leverages Marlowe's capabilities.
+Results and observations from testing and simulation.
+Any considerations or challenges encountered during the design and testing process.
+Submission:
+
+Submit your presentation or document, along with any relevant screenshots or code snippets, by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful design and explanation of a financial contract or dApp using Marlowe Playground.
+Clarity and thoroughness of documentation, including contract logic.
+Effective testing and simulation of the contract or dApp.
+Insightful discussion of how Marlowe's capabilities are leveraged.
+Clear communication of any considerations or challenges faced.
+Overall quality of the assignment and adherence to submission guidelines.

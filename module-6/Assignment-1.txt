@@ -1,0 +1,41 @@
+Introduction to Cardano Tokenization
+
+Objective: Familiarize students with the concept of tokenization on the Cardano blockchain.
+
+Assignment Description:
+
+In this assignment, you will introduce students to the concept of tokenization on the Cardano blockchain. The objective is to provide students with a foundational understanding of how tokenization works on Cardano, its significance in the blockchain ecosystem, and the distinctions between native tokens and non-fungible tokens (NFTs) within the Cardano context.
+
+Instructions:
+
+Introduction to Tokenization:
+
+Start by introducing the concept of tokenization and its relevance in the blockchain space. Explain how tokenization enables the creation of digital assets represented on the blockchain.
+Tokenization on Cardano:
+
+Research and provide an overview of tokenization on the Cardano blockchain. Explain how Cardano facilitates the creation and management of digital tokens.
+Significance of Tokenization:
+
+Discuss the significance of tokenization on Cardano. Highlight its potential use cases and how it can be leveraged to represent real-world assets, facilitate decentralized finance (DeFi), and enable new business models.
+Native Tokens vs. NFTs:
+
+Describe the differences between native tokens and non-fungible tokens (NFTs) in the context of Cardano:
+Native Tokens: Explain what native tokens are, how they are created, and their characteristics, such as fungibility and divisibility.
+NFTs: Define NFTs, how they differ from native tokens, and their role in representing unique and indivisible digital assets.
+Real-World Examples:
+
+Provide real-world examples or case studies of how tokenization on Cardano has been utilized. This can include projects or initiatives that have issued native tokens or NFTs on the Cardano blockchain.
+Discussion Questions:
+
+Encourage students to reflect on the importance of tokenization in the blockchain industry and its potential impact on various sectors. Ask them to consider the unique properties and use cases of native tokens and NFTs.
+Submission:
+
+Students should submit a document (e.g., a report or presentation) that includes their research findings, explanations, and responses to the discussion questions.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensiveness of the overview of tokenization on Cardano.
+Accuracy and depth of explanations regarding native tokens and NFTs on Cardano.
+Thoughtful responses to discussion questions reflecting an understanding of the significance of tokenization.
+Overall quality of the assignment and adherence to submission guidelines.

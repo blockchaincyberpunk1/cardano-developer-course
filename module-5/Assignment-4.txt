@@ -1,0 +1,42 @@
+Interactive Plutus DApp Development
+
+Objective: Dive deeper into Plutus DApp development by creating an interactive application.
+
+Assignment Description:
+
+In this assignment, you will guide students in diving deeper into Plutus DApp development by creating an interactive application. The objective is to provide students with hands-on experience in developing a decentralized application (DApp) that involves user interactions and data processing on the Cardano blockchain. Students will choose a use case for their DApp, implement the chosen use case, and develop an interactive Plutus DApp that includes front-end elements for user input and feedback.
+
+Instructions:
+
+Choose a Use Case:
+
+Instruct students to choose a use case for their decentralized application (DApp). Encourage them to select a use case that involves user interactions and data processing on the Cardano blockchain. Examples could include a voting DApp, a decentralized marketplace, or a gaming application.
+Define DApp Features:
+
+Have students define the features and functionalities their DApp will offer to users. These features should involve user interactions and data processing. Ensure that they have a clear understanding of what the DApp is designed to achieve.
+Front-End Development:
+
+Guide students through the front-end development process. Instruct them to create front-end elements that allow users to interact with the DApp, such as forms for input, buttons for actions, and feedback mechanisms to display results.
+Back-End Development (Plutus Smart Contract):
+
+Instruct students to develop the Plutus smart contract that will power the DApp. The smart contract should implement the logic and functionality required for the chosen use case.
+Integration:
+
+Ensure that students integrate the front-end and back-end components of the DApp effectively. They should establish communication between the user interface and the Plutus smart contract.
+User Testing:
+
+Instruct students to conduct user testing of their interactive Plutus DApp. Encourage them to gather feedback from potential users and make any necessary improvements.
+Documentation:
+
+Require students to document the entire development process, including explanations of the use case, front-end elements, Plutus smart contract logic, integration steps, and user testing results.
+Submission:
+
+Students should submit a document (e.g., a report or tutorial) that includes the development process, code samples, explanations, user testing results, and any relevant screenshots or diagrams.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of an interactive Plutus DApp that implements the chosen use case.
+Clarity and comprehensiveness of the documentation, including explanations of the DApp's features, front-end elements, Plutus smart contract logic, and integration.
+Effective user testing and incorporation of user feedback.
+Overall quality of the assignment and adherence to submission guidelines.

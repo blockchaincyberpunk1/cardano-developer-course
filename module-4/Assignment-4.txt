@@ -1,0 +1,39 @@
+Marlowe Contract Simulation
+
+Objective: Test Marlowe contracts using simulations.
+
+Assignment Description:
+
+In this assignment, you will learn how to simulate the execution of a Marlowe contract using available tools or simulators. The objective is to provide students with hands-on experience in simulating Marlowe contract execution and understanding how different scenarios impact the outcomes of financial contracts. You will simulate the execution of the financial contract developed in Assignment 3 and describe the outcomes for various scenarios.
+
+Instructions:
+
+Review the Developed Marlowe Contract:
+
+Start by reviewing the Marlowe financial contract you developed in Homework Assignment 3. Familiarize yourself with its parameters, actions, and conditions.
+Choose Scenarios for Simulation:
+
+Select a range of scenarios that you want to simulate. These scenarios should involve different conditions, actions, or inputs that can occur within the contract. For example, you can simulate scenarios like successful repayments, missed payments, or early contract termination.
+Simulate Contract Execution:
+
+Use available tools or simulators to simulate the execution of the Marlowe contract for each selected scenario. Ensure that you follow the steps necessary to execute the contract according to the chosen scenarios.
+Document Outcomes:
+
+Document the outcomes of each simulation scenario. Describe what happens when the contract is executed under different conditions. Include details such as payment amounts, contract state changes, and any actions triggered.
+Analyze and Compare Results:
+
+Analyze and compare the results of the simulations. Identify how the contract behaves in response to different scenarios and conditions. Discuss any expected or unexpected outcomes.
+Reflection and Discussion:
+
+Reflect on the significance of contract simulation in the context of Marlowe development. Discuss how contract simulation can help developers ensure contract functionality, test edge cases, and mitigate potential risks.
+Submission:
+
+Submit a document (e.g., a report or presentation) that includes the simulation outcomes, analysis, and reflection on the significance of contract simulation.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful simulation of the Marlowe contract for different scenarios.
+Clarity and thoroughness in documenting simulation outcomes and analysis.
+Insightful reflection on the significance of contract simulation in Marlowe development.
+Overall quality of the assignment and adherence to submission guidelines.

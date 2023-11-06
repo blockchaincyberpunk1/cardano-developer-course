@@ -1,0 +1,46 @@
+Blockchain Innovation Discussion
+
+Objective: Foster a discussion on blockchain innovation.
+
+Assignment Description:
+
+In this assignment, you will explore recent innovations or developments in the blockchain space and engage in a class discussion to analyze their significance. The objective is to encourage students to think critically about how these innovations may impact Cardano and the broader blockchain ecosystem. You will select a recent blockchain innovation (e.g., smart contracts, NFTs, layer 2 scaling solutions) and provide an overview of its significance. Subsequently, you will facilitate a class discussion where students share their perspectives on the potential implications of this innovation.
+
+Instructions:
+
+Select a Blockchain Innovation:
+
+Choose a recent and significant blockchain innovation or development that has garnered attention in the crypto space. Examples include smart contracts, non-fungible tokens (NFTs), layer 2 scaling solutions, or any other relevant innovation.
+Research and Overview:
+
+Conduct comprehensive research to understand the chosen blockchain innovation. Explore official documentation, whitepapers, news articles, and reputable sources to gather information. Provide an overview that covers:
+A clear explanation of the innovation.
+The problem it addresses or the opportunities it creates.
+Key features and functionalities.
+Notable projects or platforms implementing the innovation.
+Class Discussion Preparation:
+
+Prepare for the class discussion by formulating discussion questions related to the chosen innovation. These questions should encourage critical thinking and facilitate a meaningful exchange of ideas among students. For example:
+How might this innovation impact Cardano specifically?
+What are the potential advantages and challenges associated with implementing this innovation in the blockchain space?
+Are there any use cases or industries where this innovation could be particularly transformative?
+Presentation or Discussion Facilitation:
+
+Present your overview of the chosen blockchain innovation to the class. Use visuals, examples, and clear explanations to ensure understanding.
+Open the floor for discussion and encourage students to share their perspectives, insights, and questions related to the innovation.
+Discussion Participation and Reflection:
+
+Actively participate in the discussion and moderate it to ensure a productive exchange of ideas.
+Reflect on the key points raised during the discussion and summarize any consensus or differing opinions.
+Submission:
+
+Submit a summary of the class discussion, including any noteworthy insights or conclusions reached during the discussion.
+Grading Criteria:
+
+Your assignment will be assessed based on the following criteria:
+
+Clarity and accuracy of the overview of the chosen blockchain innovation.
+Effectiveness in facilitating a productive class discussion.
+Depth and quality of participation in the discussion.
+Ability to encourage critical thinking and exchange of ideas among students.
+Overall submission quality and adherence to submission guidelines.

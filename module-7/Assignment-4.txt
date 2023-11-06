@@ -1,0 +1,40 @@
+Exploring Cardano Documentation
+
+Objective: Promote continuous learning by exploring official Cardano documentation.
+
+Assignment Description:
+
+In this assignment, students will engage in continuous learning by exploring Cardano's official documentation, which includes whitepapers, technical specifications, and developer resources. The objective is to encourage students to stay updated with the latest information and developments related to Cardano. Students will select one specific document or resource from the Cardano documentation and summarize its key points, highlighting its relevance to their interests or goals.
+
+Instructions:
+
+Introduction to Cardano Documentation:
+
+Provide students with an overview of Cardano's official documentation, including its significance in the blockchain ecosystem. Emphasize the importance of staying informed about Cardano's advancements.
+Explore Cardano's Official Documentation:
+
+Instruct students to explore Cardano's official documentation, which may include whitepapers, technical specifications, developer guides, or other resources. They should choose one specific document or resource that aligns with their interests or goals.
+Select a Document or Resource:
+
+Ask students to select a document or resource from Cardano's official documentation that they find informative and relevant. They can choose a whitepaper, technical specification, or developer guide based on their preferences.
+Summarize Key Points:
+
+Require students to thoroughly read the selected document or resource and summarize its key points. They should provide a clear and concise summary that includes essential information.
+Highlight Relevance:
+
+In their summary, students should explain why they found the document or resource informative and relevant to their interests or goals. Encourage them to connect the content to specific aspects of Cardano or blockchain technology that intrigue them.
+Reflection:
+
+Ask students to reflect on how their exploration of Cardano's official documentation contributes to their understanding of blockchain technology and Cardano's role in the ecosystem. They should consider how the knowledge gained might be applied in the future.
+Submission:
+
+Students should submit a document (e.g., a summary report or presentation) that includes their summary of the chosen document or resource, an explanation of its relevance, and their reflections on the assignment.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Selection of an informative document or resource from Cardano's official documentation.
+Quality and clarity of the summary, including key points and relevant details.
+Thoughtful explanation of the document's relevance to the student's interests or goals.
+Insightful reflections on the value of exploring Cardano's official documentation.
+Overall quality of the assignment and adherence to submission guidelines.

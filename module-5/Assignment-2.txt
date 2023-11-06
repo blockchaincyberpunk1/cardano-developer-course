@@ -1,0 +1,40 @@
+Plutus DApp Development Basics
+
+Objective: Introduce students to the fundamentals of developing DApps using Plutus.
+
+Assignment Description:
+
+In this assignment, you will introduce students to the basics of developing decentralized applications (DApps) using Plutus, the smart contract development platform for Cardano. The objective is to provide students with hands-on experience in creating Plutus smart contracts and understanding the fundamental principles of Plutus development. You will guide them in developing a simple Plutus smart contract that demonstrates basic functionality, such as token transfers or data storage.
+
+Instructions:
+
+Introduction to Plutus Development:
+
+Begin by providing an introduction to Plutus development for DApps. Explain the significance of Plutus in the Cardano ecosystem and its role in building secure and functional smart contracts.
+Basics of Plutus Smart Contracts:
+
+Explore the basics of Plutus smart contract development, including:
+Script Language: Introduce the Plutus script language and its features.
+Data Types: Explain the data types used in Plutus, such as datums and redeemer scripts.
+Transactions: Describe how transactions work in Plutus, including inputs, outputs, and scripts.
+Develop a Simple Plutus Smart Contract:
+
+Guide students through the process of developing a simple Plutus smart contract. The contract should demonstrate basic functionality, such as token transfers or data storage.
+Provide code samples and explanations for the contract's logic and structure.
+Testing and Execution:
+
+Instruct students to test and execute their Plutus smart contract within the Plutus development environment. Ensure that they understand how to verify the contract's functionality.
+Documentation:
+
+Require students to document the development process of the Plutus smart contract. This documentation should include explanations of the contract's purpose, parameters, data types, and the logic behind it.
+Submission:
+
+Students should submit a document (e.g., a report or tutorial) that includes the development process, code samples, explanations, and any relevant screenshots or diagrams.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of a simple Plutus smart contract.
+Clarity and comprehensiveness of the documentation, including explanations of contract logic and structure.
+Effective testing and verification of the contract's functionality.
+Overall quality of the assignment and adherence to submission guidelines.

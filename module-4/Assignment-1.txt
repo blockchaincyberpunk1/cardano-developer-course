@@ -1,0 +1,34 @@
+Introduction to Marlowe
+
+Objective: Familiarize students with Marlowe, a domain-specific language for financial smart contracts on Cardano.
+
+Assignment Description:
+
+In this assignment, you will introduce students to Marlowe, a domain-specific language for financial smart contracts on Cardano. The objective is to provide students with an understanding of Marlowe's purpose, advantages, and its role in the Cardano ecosystem. You will research and provide an overview of Marlowe, explain its key features, and discuss why it is suitable for financial contract development on the blockchain.
+
+Instructions:
+
+Research and Overview of Marlowe:
+
+Begin by researching and compiling information about Marlowe. Explore official documentation, whitepapers, academic resources, and reputable sources to provide an overview of Marlowe, Cardano's domain-specific language for financial smart contracts.
+Include information about Marlowe's purpose and objectives.
+Advantages of Marlowe:
+
+Explain the advantages of using Marlowe for financial contract development. Discuss how Marlowe simplifies the creation of financial contracts and why it is beneficial for developers.
+Key Features of Marlowe:
+
+Describe the key features and characteristics of Marlowe that make it suitable for financial contract development on the blockchain. Highlight aspects such as its formal verifiability, ease of use, and integration with Cardano.
+Role in the Cardano Ecosystem:
+
+Discuss Marlowe's role within the broader Cardano ecosystem. Explain how it contributes to Cardano's mission and goals, particularly in the context of decentralized finance (DeFi) and financial contract applications.
+Submission:
+
+Submit a document (e.g., a report or presentation) that includes the research findings, explanations, and any relevant examples or use cases related to Marlowe.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on Marlowe.
+Clarity and comprehensiveness of explanations regarding Marlowe's purpose, advantages, and key features.
+Insightful discussion of Marlowe's role in the Cardano ecosystem.
+Overall quality of the assignment and adherence to submission guidelines.

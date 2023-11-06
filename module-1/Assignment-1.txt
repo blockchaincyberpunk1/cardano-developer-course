@@ -1,0 +1,50 @@
+Exploring Cardano
+
+Objective: Introduce students to the Cardano blockchain platform.
+
+Assignment Description:
+
+In this assignment, you will dive into the world of Cardano, a blockchain platform that has been making waves in the crypto space. Your task is to research and compile information about Cardano, its history, founders, and the goals it aims to achieve in the blockchain ecosystem. This assignment will help you gain a fundamental understanding of what makes Cardano unique and its potential impact on the blockchain industry.
+
+Instructions:
+
+Research Cardano:
+
+Begin by conducting in-depth research on Cardano. Explore various reputable sources such as official websites, whitepapers, academic papers, and news articles. Ensure that you gather information on the following aspects:
+Cardano's history and inception.
+Founders and key figures behind the project.
+The technology and architecture underlying Cardano.
+The key goals and objectives that Cardano aims to achieve in the blockchain space.
+Unique Features and Innovations:
+
+Summarize the unique features and innovations that set Cardano apart from other blockchain platforms. These could include:
+Cardano's consensus mechanism.
+Scalability solutions.
+Smart contract capabilities.
+Interoperability features.
+Sustainability and environmental considerations.
+Provide clear explanations and examples where necessary.
+Use Cases:
+
+Explore the practical use cases of Cardano in different industries or applications. Discuss how Cardano's features can address real-world problems and contribute to blockchain adoption.
+Include examples of ongoing projects or partnerships related to Cardano.
+Potential Benefits:
+
+Outline the potential benefits that Cardano offers to developers, businesses, and users in the blockchain space. These may include factors such as security, decentralization, and sustainability.
+Discuss any potential drawbacks or challenges Cardano might face.
+Presentation or Report:
+
+Create a presentation or a report summarizing your findings. You can choose the format that suits your preferences, such as a PowerPoint presentation, Google Slides, or a written report.
+Ensure that your presentation or report is well-structured, includes visuals, and provides clear explanations.
+Submission:
+
+Submit your presentation/report by the due date specified by your instructor. Be prepared to present your findings to the class if required.
+Grading Criteria:
+
+Your assignment will be assessed based on the following criteria:
+
+Depth and accuracy of research.
+Clarity and organization of the presentation/report.
+Understanding and explanation of Cardano's unique features and innovations.
+Insight into Cardano's use cases and potential benefits.
+Overall presentation quality and adherence to submission guidelines.

@@ -1,0 +1,42 @@
+Marlowe Syntax and Structure
+
+Objective: Understand the syntax and structure of Marlowe contracts.
+
+Assignment Description:
+
+In this assignment, you will delve into the syntax and structure of Marlowe contracts, gaining an understanding of how they are structured and written. The objective is to provide students with hands-on experience in examining Marlowe contract syntax and creating their own simple Marlowe contract template to represent a financial scenario. By completing this assignment, students will become familiar with the basics of Marlowe contract development.
+
+Instructions:
+
+Syntax and Structure Exploration:
+
+Begin by exploring the syntax and structure of Marlowe contracts. Refer to official Marlowe documentation, tutorials, and resources to understand how Marlowe contracts are written.
+Examine code examples and contract templates to grasp the key components and syntax elements used in Marlowe.
+Choose a Financial Scenario:
+
+Select a simple financial scenario for which you will create a Marlowe contract template. Examples could include a payment agreement, a loan repayment contract, a simple financial derivative, or any other straightforward financial contract.
+Create a Marlowe Contract Template:
+
+Using your understanding of Marlowe syntax and structure, write a simple Marlowe contract template that represents the chosen financial scenario.
+Document the contract's structure, variables, and conditions clearly.
+Test and Verify the Contract Template:
+
+Test and verify your Marlowe contract template to ensure it operates as expected within the Marlowe development environment.
+Documentation:
+
+Prepare a document (e.g., a report or tutorial) that includes the following:
+Explanation of Marlowe's syntax and structure.
+The chosen financial scenario and its relevance.
+Detailed Marlowe contract template for the selected scenario.
+Documentation of testing and verification results.
+Submission:
+
+Submit your document along with any relevant code snippets or diagrams by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clear understanding and explanation of Marlowe's syntax and structure.
+Effective creation of a Marlowe contract template for the chosen financial scenario.
+Successful testing and verification of the contract template.
+Overall quality of the assignment and adherence to submission guidelines.

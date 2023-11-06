@@ -1,0 +1,46 @@
+Non-Fungible Tokens (NFTs) on Cardano
+
+Objective: Understand the development of non-fungible tokens (NFTs) on Cardano.
+
+Assignment Description:
+
+In this assignment, you will instruct students to explore the world of non-fungible tokens (NFTs) on the Cardano blockchain. The objective is to provide students with a comprehensive understanding of NFTs, including their characteristics, significance, and various use cases. Additionally, students will investigate the steps and tools required to create, manage, and trade NFTs on the Cardano blockchain.
+
+Instructions:
+
+Introduction to NFTs:
+
+Begin by introducing students to the concept of non-fungible tokens (NFTs). Explain what NFTs are, their unique characteristics, and their role in representing ownership of digital or physical assets.
+Characteristics and Use Cases:
+
+Research and provide an overview of the characteristics of NFTs. Discuss their indivisibility, uniqueness, and the role of metadata in describing NFT assets.
+Explore various use cases of NFTs, including digital art, collectibles, gaming assets, and real-world asset representation.
+NFTs on Cardano:
+
+Explain how NFTs are implemented on the Cardano blockchain. Discuss Cardano's native token standard for NFTs and how they are created and managed.
+Tools and Development:
+
+Investigate the tools and development environments required to create, manage, and trade NFTs on the Cardano blockchain. This may include exploring the Cardano CLI, development frameworks, and NFT marketplaces.
+Creating an NFT:
+
+Guide students through the process of creating a simple NFT on the Cardano blockchain. Instruct them to define the NFT's metadata, ownership, and other relevant details.
+Managing and Trading NFTs:
+
+Explain how NFTs can be managed and traded on the Cardano blockchain. Discuss the role of smart contracts, marketplaces, and wallet integration in NFT management and transactions.
+Documentation:
+
+Require students to document the entire process, including explanations of NFT characteristics, use cases, the NFT creation process, and the tools used. Include any relevant code samples or transaction records.
+Discussion:
+
+Encourage students to discuss the potential impact of NFTs on various industries and the broader blockchain ecosystem. Invite them to share their insights and opinions on the significance of NFTs.
+Submission:
+
+Students should submit a document (e.g., a report or presentation) that includes their research findings, documentation of the NFT creation process, and their thoughts on NFTs' impact.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and comprehensiveness of the overview of NFTs, including characteristics and use cases.
+Successful creation of a simple NFT on the Cardano blockchain.
+Clarity and depth of the documentation, including explanations and code samples.
+Thoughtful discussion and insights regarding the impact of NFTs.

@@ -1,0 +1,39 @@
+Analyzing Marlowe Contracts
+
+Objective: Analyze the Marlowe contract's behavior and outcomes.
+
+Assignment Description:
+
+In this assignment, you will analyze the behavior and outcomes of Marlowe contracts, focusing on the results obtained from the simulations conducted in the previous assignment. The objective is to provide students with the skills to critically evaluate the behavior of Marlowe contracts, identify potential issues or areas for improvement, and understand the advantages of using Marlowe for financial contracts. You will also discuss how Marlowe enhances transparency, security, and trust in financial agreements.
+
+Instructions:
+
+Review Simulation Outcomes:
+
+Begin by reviewing the outcomes of the Marlowe contract simulations conducted in Homework Assignment 4. Familiarize yourself with the results obtained for different scenarios.
+Identify Potential Issues or Improvements:
+
+Analyze the simulation outcomes and identify any potential issues, limitations, or areas for improvement in the Marlowe contract. Discuss any unexpected behavior or challenges encountered during the simulations.
+Advantages of Using Marlowe:
+
+Discuss the advantages of using Marlowe for financial contracts. Emphasize how Marlowe enhances transparency, security, and trust in financial agreements. Explain how its formal verification features contribute to contract reliability.
+Transparency and Security:
+
+Specifically, address the transparency and security aspects of Marlowe. Explain how Marlowe's clear and formal contract language contributes to transparency, making contract terms and execution easily understandable for all parties. Discuss how the formal verification process enhances security by reducing the risk of vulnerabilities and errors.
+Trust in Financial Agreements:
+
+Discuss how Marlowe promotes trust in financial agreements. Explain how the contract's execution behavior is predictable and verifiable, reducing the need for intermediaries and building trust between parties.
+Reflection and Recommendations:
+
+Reflect on the overall analysis and make recommendations for improving Marlowe contract design or addressing any identified issues. Discuss the role of continuous testing and refinement in Marlowe development.
+Submission:
+
+Submit a document (e.g., a report or presentation) that includes the analysis of simulation outcomes, discussion of advantages, and recommendations based on your analysis.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Depth and insightfulness of the analysis of Marlowe contract simulation outcomes.
+Clarity and comprehensiveness in discussing the advantages of using Marlowe for financial contracts.
+Thoughtful reflection on potential issues or improvements and relevant recommendations.
+Overall quality of the assignment and adherence to submission guidelines.

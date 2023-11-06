@@ -1,0 +1,41 @@
+Writing Custom Scripts in Plutus
+
+Objective: Gain hands-on experience in writing custom scripts for Plutus smart contracts.
+
+Assignment Description:
+
+In this assignment, you will gain practical experience in writing custom scripts for Plutus smart contracts using the Plutus development environment. The objective is to provide students with hands-on experience in creating custom scripts in Haskell, which is a crucial skill for Plutus smart contract development. You will create a simple custom script, document the process of writing it, explain its logic, variables, and functions, and include code samples and explanations.
+
+Instructions:
+
+Access the Plutus Development Environment:
+
+Access the Plutus development environment, which provides tools for writing, testing, and simulating Plutus smart contracts.
+Choose a Use Case:
+
+Select a simple use case or scenario for your custom script. This could be a payment script, a basic financial contract, or any other straightforward application.
+Write the Custom Script:
+
+Using Haskell, write a custom script to fulfill the chosen use case. Your script should demonstrate an understanding of Haskell's syntax and functional programming principles.
+Document the Script-Writing Process:
+
+Create a document (e.g., a report or tutorial) that includes the following:
+An introduction to the use case and the purpose of the custom script.
+Detailed explanations of the variables, functions, and logic used in the script.
+Code samples and snippets to illustrate key aspects of the script.
+Any challenges or considerations encountered while writing the script and how they were addressed.
+Testing and Verification:
+
+Test and verify your custom script within the Plutus development environment to ensure it functions as expected.
+Submission:
+
+Submit your document, including explanations, code samples, and any relevant screenshots, by the due date specified by your instructor.
+Grading Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful creation of a custom script in Haskell for the chosen use case.
+Clarity and thoroughness of documentation, including detailed explanations of variables, functions, and logic.
+Effective testing and verification of the custom script.
+Insightful discussion of any challenges or considerations encountered during the script-writing process.
+Overall quality of the assignment and adherence to submission guidelines.
